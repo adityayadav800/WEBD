@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Aditya Yadav
+#Sophomore at VIT Bhopal 
 
-You can use the [editor on GitHub](https://github.com/adityayadav800/WEBD/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a tech enthusiast trying to figure out, in which field I will fit in.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+I have hands on experince in the:
+Android Dev
+Web Dev
+Data Science (Still a beginner.)
+
 
 ### Markdown
 
@@ -11,7 +17,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+HEY 
 ## Header 2
 ### Header 3
 
