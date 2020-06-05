@@ -19,13 +19,13 @@ Syntax highlighted code block
 
 This is all inside a block 
 
-- this 
-- is 
-- how
-- you 
-- make 
-- an unordered 
-- list
+* this 
+* is 
+* how
+* you 
+* make 
+* an unordered 
+* list
 Steps to make an Ordered List
 1. Write a number before the List element
 2. Now you have it all formatted into ordered list
